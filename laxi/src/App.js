@@ -18,16 +18,16 @@ function App() {
     <>
       <NavBar />
       <Title />
-      <SearchBox />
+      {/* <SearchBox /> */}
       <Heading />
       <TechnologyStack />
       <Heading1 />
       <TeamInfo />
       <FAQSection />
-      <Background />
-      {/* <MainSliderComponent /> */}
-      {/* <Login /> */}
-      {/* <GetInTouch /> */}
+      {/* <Background /> */}
+      {/* <MainSliderComponent />
+      <Login />
+      <GetInTouch /> */}
     </>
   );
 }
