@@ -7,11 +7,11 @@ function SearchBox() {
 
                     <div class="col-md-6">
 
-                        <div class="form">
+                        {/* <div class="form">
                             <i class="fa fa-search"></i>
                             <input type="text" class="form-control form-input" placeholder="Search anything..." />
                             <span class="left-pan"><i class="fa fa-microphone"></i></span>
-                        </div>
+                        </div> */}
 
                     </div>
 

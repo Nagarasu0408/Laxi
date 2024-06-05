@@ -8,6 +8,7 @@ import TechnologyStack from './assets/TechnologyStack';
 import Background from './assets/background';
 import TeamInfo from './assets/TeamInfo';
 import Title from './assets/Title';
+import Heading1 from './assets/Heading1';
 // import MainSliderComponent from './assets/MainSliderComponent';
 // import Login from './assets/login';
 // import GetInTouch from './assets/contactus';
@@ -20,7 +21,7 @@ function App() {
       <SearchBox />
       <Heading />
       <TechnologyStack />
-      <Heading />
+      <Heading1 />
       <TeamInfo />
       <FAQSection />
       <Background />

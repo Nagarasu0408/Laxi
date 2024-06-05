@@ -1,6 +1,6 @@
 import React from 'react';
 // import { Navbar, Container, Form, FormControl, Button } from 'react-bootstrap';
-
+import img from './Images/logo1.png'
 function NavBar() {
     return (
         // <Navbar bg="light" expand="lg">
@@ -22,18 +22,15 @@ function NavBar() {
 
         <div className='nav-bar'>
             <div class="Logo">
-                <p class='nav'>Fun <span>Tech</span></p>
+                <img src={img} alt='logo' style={{width:'80px', height:'80px'}}></img>
             </div>
             <div class="nav-items">
                 <a href="#" class="nav">Home</a>
-                <a href="#" class="nav">Search</a>
-                <a href="#" class="nav">Following</a>
-                <a href="#" class="nav">Settings</a>
+                <a href="#" class="nav">About</a>
+                <a href="#" class="nav">Technology</a>
+                <a href="#" class="nav">Prototype</a>
             </div>
-            <div className='nav-btn'>
-                <button class="log button">Login</button>
-                <button class="reg button">Sign up</button>
-            </div>
+          
         </div>
     );
 }

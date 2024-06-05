@@ -22,7 +22,7 @@ function TeamInfo() {
                                         <div class="ms-3">
                                             <div>
                                                 <h4 class="card-title mb-2">Biography</h4>
-                                                <p class="mb-0 text-muted">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                                <p class="mb-0 text-muted">With a strong academic background and a relentless drive for success, I'm poised to make a significant impact in the workplace.</p>
                                             </div>
                                             <div class="row my-4">
                                                 <div class="col-md-12">
@@ -35,40 +35,82 @@ function TeamInfo() {
                                                 </div>
                                             </div>
 
-                                            <ul class="nav nav-tabs nav-tabs-custom border-bottom-0 mt-3 nav-justfied" role="tablist">
-                                                <li class="nav-item" role="presentation">
-                                                    <a class="nav-link px-4 " href="#" target="">
-                                                        <span class="d-block d-sm-none"><i class="fas fa-home"></i></span>
-                                                        <span class="d-none d-sm-block">Projects</span>
-                                                    </a>
-                                                </li>
-                                                <li class="nav-item" role="presentation">
-                                                    <a class="nav-link px-4 " href="#" target="">
-                                                        <span class="d-block d-sm-none"><i class="mdi mdi-menu-open"></i></span>
-                                                        <span class="d-none d-sm-block">Tasks</span>
-                                                    </a>
-                                                </li>
-                                                <li class="nav-item" role="presentation">
-                                                    <a class="nav-link px-4  active" data-bs-toggle="tab" href="#team-tab" role="tab" aria-selected="true">
-                                                        <span class="d-block d-sm-none"><i class="mdi mdi-account-group-outline"></i></span>
-                                                        <span class="d-none d-sm-block">Team</span>
-                                                    </a>
-                                                </li>
-                                            </ul>
+                                          
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
+                        <div class="card">
+                            <div class="card-body pb-0">
+                                <div class="row align-items-center">
+                                    <div class="col-md-3">
+                                        <div class="text-center border-end">
+                                            <img src="https://bootdey.com/img/Content/avatar/avatar1.png" class="img-fluid avatar-xxl rounded-circle" alt="" />
+                                            <h4 class="text-primary font-size-20 mt-3 mb-2">VIGNESH M</h4>
+                                            <h5 class="text-muted font-size-13 mb-0">Web Designer</h5>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-9">
+                                        <div class="ms-3">
+                                            <div>
+                                                <h4 class="card-title mb-2">Biography</h4>
+                                                <p class="mb-0 text-muted">With a passion for Web Development, I'm committed to leveraging my academic achievements to excel in a professional environmentk.</p>
+                                            </div>
+                                            <div class="row my-4">
+                                                <div class="col-md-12">
+                                                    <div>
+                                                        <p class="text-muted mb-2 fw-medium"><i class="mdi mdi-email-outline me-2"></i>717821f260@gmail.com
+                                                        </p>
+                                                        <p class="text-muted fw-medium mb-0"><i class="mdi mdi-phone-in-talk-outline me-2"></i>+91 6374955726
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
 
+                                          
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-body pb-0">
+                                <div class="row align-items-center">
+                                    <div class="col-md-3">
+                                        <div class="text-center border-end">
+                                            <img src="https://bootdey.com/img/Content/avatar/avatar1.png" class="img-fluid avatar-xxl rounded-circle" alt="" />
+                                            <h4 class="text-primary font-size-20 mt-3 mb-2">Siva S</h4>
+                                            <h5 class="text-muted font-size-13 mb-0">Web Designer</h5>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-9">
+                                        <div class="ms-3">
+                                            <div>
+                                                <h4 class="card-title mb-2">Biography</h4>
+                                                <p class="mb-0 text-muted">Armed with a culmination of theoretical knowledge and practical experience, I'm ready to bring fresh perspectives and innovative solutions to your team.</p>
+                                            </div>
+                                            <div class="row my-4">
+                                                <div class="col-md-12">
+                                                    <div>
+                                                        <p class="text-muted mb-2 fw-medium"><i class="mdi mdi-email-outline me-2"></i>717821f253@kce.ac.in
+                                                        </p>
+                                                        <p class="text-muted fw-medium mb-0"><i class="mdi mdi-phone-in-talk-outline me-2"></i>+91 8610943594
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                          
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                         <div class="card">
                             <div class="tab-content p-4">
-
-
-
-
                                 <div class="tab-pane active show" id="team-tab" role="tabpanel">
-                                    <h4 class="card-title mb-4">Team</h4>
+                                    <h4 class="card-title mb-4">Activities</h4>
                                     <div class="row">
                                         <div class="col-xl-4 col-md-6" id="team-1">
                                             <div class="card">
@@ -415,16 +457,16 @@ function TeamInfo() {
                             <div class="card-body">
                                 <div class="pb-2">
                                     <h4 class="card-title mb-3">About</h4>
-                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                    <p>SSBP provides a better services to the hardworking labours by mutually interacting with them physically and make the labours independent on their own sales and don't depend on others.</p>
                                     <ul class="ps-3 mb-0">
-                                        <li>it will seem like simplified.</li>
-                                        <li>To achieve this, it would be necessary to have uniform pronunciation</li>
+                                        <li>It increase the income of a labour.</li>
+                                        <li>It make the labours independent on their own sales and don't depend on others.</li>
                                     </ul>
 
                                 </div>
                                 <hr />
                                 <div class="pt-2">
-                                    <h4 class="card-title mb-4">My Skill</h4>
+                                    <h4 class="card-title mb-4">Skills</h4>
                                     <div class="d-flex gap-2 flex-wrap">
                                         <span class="badge badge-soft-secondary p-2">HTML</span>
                                         <span class="badge badge-soft-secondary p-2">Bootstrap</span>
@@ -432,6 +474,8 @@ function TeamInfo() {
                                         <span class="badge badge-soft-secondary p-2">Javascript</span>
                                         <span class="badge badge-soft-secondary p-2">React</span>
                                         <span class="badge badge-soft-secondary p-2">Flutter</span>
+                                        <span class="badge badge-soft-secondary p-2">React-Native</span>
+                                        {/* <span class="badge badge-soft-secondary p-2">AWS Amplify</span> */}
                                     </div>
                                 </div>
                             </div>
@@ -463,11 +507,68 @@ function TeamInfo() {
                                             </tbody>
                                         </table>
                                     </div>
+                                    
+                                </div>
+                            </div>
+                            <div class="card-body">
+                                <div>
+                                    <h4 class="card-title mb-4">Personal Details</h4>
+                                    <div class="table-responsive">
+                                        <table class="table table-bordered mb-0">
+                                            <tbody>
+                                                <tr>
+                                                    <th scope="row">Name</th>
+                                                    <td>VIGNESH M</td>
+                                                </tr>
+                                                <tr>
+                                                    <th scope="row">Location</th>
+                                                    <td>Dindigul</td>
+                                                </tr>
+                                                <tr>
+                                                    <th scope="row">Language</th>
+                                                    <td>Tamil</td>
+                                                </tr>
+                                                <tr>
+                                                    <th scope="row">Website</th>
+                                                    <td>abc12@probic.com</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                            <div class="card-body">
+                                <div>
+                                    <h4 class="card-title mb-4">Personal Details</h4>
+                                    <div class="table-responsive">
+                                        <table class="table table-bordered mb-0">
+                                            <tbody>
+                                                <tr>
+                                                    <th scope="row">Name</th>
+                                                    <td>SIVA S</td>
+                                                </tr>
+                                                <tr>
+                                                    <th scope="row">Location</th>
+                                                    <td>Dindigul</td>
+                                                </tr>
+                                                <tr>
+                                                    <th scope="row">Language</th>
+                                                    <td>Tamil</td>
+                                                </tr>
+                                                <tr>
+                                                    <th scope="row">Website</th>
+                                                    <td>abc12@probic.com</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                    
                                 </div>
                             </div>
                         </div>
 
-                        <div class="card">
+                        {/* <div class="card">
                             <div class="card-body">
                                 <div>
                                     <h4 class="card-title mb-4">Work Experience</h4>
@@ -487,7 +588,7 @@ function TeamInfo() {
                                     </ul>
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             </div>
