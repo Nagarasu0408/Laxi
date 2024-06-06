@@ -24,15 +24,15 @@ function NavBar() {
             <div class="Logo">
                 <p class='nav'><div class="logo"></div>SS<span>BP</span></p>
             </div>
-            <div class="nav-items">
+            {/* <div class="nav-items">
                 <a href="#" class="nav">Home</a>
                 <a href="#" class="nav">Search</a>
                 <a href="#" class="nav">Following</a>
                 <a href="#" class="nav">Settings</a>
-            </div>
+            </div> */}
             <div className='nav-btn'>
-                <button class="log button">Login</button>
-                <button class="reg button">Sign up</button>
+                <button class="log button">Home</button>
+                <button class="reg button"><a href='https://www.figma.com/proto/Iyt7SG4PY82k5MmZgPx0jD/Laxi?node-id=0-1&t=L7XLlgZiEdj9aQr2-1' target='_blank'>Prototype</a></button>
             </div>
         </div>
     );
