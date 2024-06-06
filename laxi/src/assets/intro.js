@@ -5,21 +5,21 @@ import './intro.css';
 const songs = [
     {
         id: 1,
-        title: "Bunker",
+        title: "User Stories",
         artist: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text  is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-        img: "https://images.hdqwalls.com/wallpapers/heroic-miles-morales-4k-d0.jpg"
+        img: "https://tsh.io/wp-content/uploads/2019/10/how-to-write-good-user-stories-the-software-house-way.jpg"
     },
     {
         id: 2,
-        title: "Words Remain",
+        title: "Application Template",
         artist: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-        img: "https://images.hdqwalls.com/wallpapers/scarlet-witch-wrath-3i.jpg"
+        img: "https://img.freepik.com/premium-vector/native-mobile-app-abstract-concept-vector-illustration_107173-24939.jpg"
     },
     {
         id: 3,
-        title: "Falling Out",
+        title: "Provide Cloud Services",
         artist: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-        img: "https://images.hdqwalls.com/wallpapers/scarlet-witch-little-devil-7f.jpg"
+        img: "https://img.freepik.com/premium-vector/backup-server-abstract-concept-vector-illustration_107173-29928.jpg"
     }
 ];
 
@@ -61,8 +61,8 @@ const Intro = () => {
                                     transform: `translateX(${(index - currentIndex) * 100}%)`,
                                     zIndex: index === currentIndex ? 1 : 0,
                                     opacity: index === currentIndex ? 1 : 0.4,
-                                    height: index === currentIndex ? "450px" : "350px",
-                                    width: index === currentIndex ? "350px" : "350px",
+                                    height: index === currentIndex ? "550px" : "350px",
+                                    width: index === currentIndex ? "450px" : "450px",
 
                                 }}
                             >

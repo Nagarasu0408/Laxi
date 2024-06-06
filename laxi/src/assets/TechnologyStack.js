@@ -205,11 +205,11 @@
 
 
 
-import react1 from './Images/react1.jpg'
-import aws from './Images/aws.jpg'
-import mongo from './Images/atlas.jpg'
-import fire from './Images/fire.jpg'
-import vscode from './Images/vscode.jpg'
+import react1 from './Images/TechnologyStack/react.jpg'
+import aws from './Images/TechnologyStack/AWS.png'
+import mongo from './Images/TechnologyStack/MongoDB-1000X1000.webp'
+import fire from './Images/TechnologyStack/firebase.png'
+import vscode from './Images/TechnologyStack/VScode.webp'
 
 function TechnologyStack() {
     return (<>
