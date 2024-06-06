@@ -14,9 +14,9 @@ function TechnologyStack() {
             <section id="news" class="white-bg padding-top-bottom">
                 <div class="container bootstrap snippets bootdey">
                     <div class="timeline">
-                        {/* <div class="date-title">
-                            
-                        </div> */}
+                        <div class="date-title">
+                            <span>March 2014</span>
+                        </div>
                         <div class="row">
                             <div class="col-sm-6 news-item">
                                 <div class="news-content">

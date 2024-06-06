@@ -1,0 +1,15 @@
+.des {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.LogoDescription {
+    height: 600px;
+    width: 900px;
+    background-image: url("./Images/logo\ Description.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}

@@ -7,11 +7,12 @@ html,
 body {
     width: 100vw;
     height: 100vh;
+    background-color: white;
 }
 
 canvas {
     overflow: hidden;
     width: 100vw;
     height: 100vh;
-    background-color: white;
+    background: white;
 }

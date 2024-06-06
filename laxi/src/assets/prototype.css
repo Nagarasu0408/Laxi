@@ -1,0 +1,49 @@
+.Prototype {
+    position: fixed;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    width: 10vh;
+    border-radius: 100px 100px 0px;
+    background-color: rgba(103, 85, 224, 0.262);
+    z-index: 100;
+}
+
+.Figma {
+    height: 7vh;
+    width: 7vh;
+    outline: 5px solid white;
+    border-radius: 100px 100px 0px;
+    background-image: url('./Images/figma-1-logo-png-transparent.png');
+    background-size: 20px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+@media screen and (max-width:720px) {
+    .Prototype {
+        position: fixed;
+        display: flex;
+        top: 100px;
+        justify-content: center;
+        align-items: center;
+        height: 7vh;
+        width: 7vh;
+        border-radius: 100px 100px 0px;
+        background-color: rgba(103, 85, 224, 0.262);
+        z-index: 100;
+    }
+
+    .Figma {
+        height: 5vh;
+        width: 5vh;
+        outline: 3px solid white;
+        border-radius: 100px 100px 0px;
+        background-image: url('./Images/figma-1-logo-png-transparent.png');
+        background-size: 15px;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+}
