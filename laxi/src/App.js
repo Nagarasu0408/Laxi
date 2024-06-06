@@ -8,6 +8,8 @@ import TeamInfo from './assets/TeamInfo';
 import Title from './assets/Title';
 import Intro from './assets/intro';
 import Prototype from './assets/prototype';
+import WorkingFlow from './assets/workingflow';
+// import Scroll from './assets/scroll';
 // import LogoDescription from './assets/logoDescription';
 // import MainSliderComponent from './assets/MainSliderComponent';
 // import Login from './assets/login';
@@ -22,11 +24,14 @@ function App() {
       <Title />
       <Prototype />
       <Intro />
-      <Heading />
+      <Heading title="Technology Stacks" />
       <TechnologyStack />
-      <Heading />
+      <Heading title="How It's To Use?" />
+      <WorkingFlow />
+      <Heading title="Team Details" />
       <TeamInfo />
       <FAQSection />
+      {/* <Scroll /> */}
       {/* <LogoDescription /> */}
       {/* <SearchBox /> */}
       {/* <Background /> */}
