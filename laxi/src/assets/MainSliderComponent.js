@@ -115,7 +115,7 @@ const SlidersContainer = () => {
     );
 };
 
-const App = () => (
+const MainSliderComponent = () => (
     <div className="container">
         <Header />
         <SlidersContainer />
@@ -123,4 +123,4 @@ const App = () => (
     </div>
 );
 
-export default App;
+export default MainSliderComponent;
