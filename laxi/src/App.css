@@ -9,7 +9,7 @@
 
 
 body {
-  background: #eaeef6;
+  background: #ffffff;
   font-family: "Raleway", sans-serif;
   overflow-x: hidden;
 }
@@ -41,8 +41,18 @@ body {
   margin: 10px;
 }
 
+.logo {
+  margin-right: 10px;
+  height: 75px;
+  width: 75px;
+  background-image: url("./assets/Images/logo.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
 .Logo {
-  font-size: 30px;
+  font-size: 45px;
 }
 
 .Logo span {
@@ -116,6 +126,7 @@ body {
 }
 
 @media (max-width: 720px) {
+
   .nav-items {
     display: none;
   }
@@ -131,6 +142,17 @@ body {
     box-shadow: 0 0 20px rgba(104, 85, 224, 0.2);
     transition: 0.4s;
   }
+
+  .Logo {
+    font-size: 25px;
+  }
+
+  .logo {
+    margin-right: 10px;
+    height: 55px;
+    width: 55px;
+  }
+
 }
 
 
@@ -159,7 +181,8 @@ body {
 
 .Title span {
   font-weight: 500;
-  color: #e44f47;
+  /* color: #e44f47; */
+  color: rgba(104, 85, 224, 1);
 }
 
 @media (max-width: 500px) {

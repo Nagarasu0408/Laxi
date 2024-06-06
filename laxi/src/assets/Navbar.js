@@ -22,7 +22,7 @@ function NavBar() {
 
         <div className='nav-bar'>
             <div class="Logo">
-                <p class='nav'>Fun <span>Tech</span></p>
+                <p class='nav'><div class="logo"></div>SS<span>BP</span></p>
             </div>
             <div class="nav-items">
                 <a href="#" class="nav">Home</a>

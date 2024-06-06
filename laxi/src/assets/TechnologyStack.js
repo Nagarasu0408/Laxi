@@ -9,7 +9,7 @@ function TechnologyStack() {
                 <div class="container bootstrap snippets bootdey">
                     <div class="timeline">
                         <div class="date-title">
-                            <span>March 2014</span>
+                            <span>Backend Technology</span>
                         </div>
                         <div class="row">
                             <div class="col-sm-6 news-item">
