@@ -47,22 +47,24 @@ const SearchBox = () => {
   };
 
   return (
-    <div className="slider-container">
-      <div className="slider-wrapper" style={{ transform: `translateX(-${currentIndex * 100}%)` }}>
-        {slides.map((slide, index) => (
-          <div className="slide" key={index}>
-            <div className="picture">
-              <img src={slide.image} alt={slide.name} />
+    <div className='body'>
+      <div className="slider-container">
+        <div className="slider-wrapper" style={{ transform: `translateX(-${currentIndex * 100}%)` }}>
+          {slides.map((slide, index) => (
+            <div className="slide" key={index}>
+              <div className="picture">
+                <img src={slide.image} alt={slide.name} />
+              </div>
+              <div className="detail">
+                <h3>{slide.name}</h3>
+                <span>{slide.title}</span>
+              </div>
             </div>
-            <div className="detail">
-              <h3>{slide.name}</h3>
-              <span>{slide.title}</span>
-            </div>
-          </div>
-        ))}
+          ))}
+        </div>
+        <button className="prev" onClick={handlePrev}>Prev</button>
+        <button className="next" onClick={handleNext}>Next</button>
       </div>
-      <button className="prev" onClick={handlePrev}>Prev</button>
-      <button className="next" onClick={handleNext}>Next</button>
     </div>
   );
 };
