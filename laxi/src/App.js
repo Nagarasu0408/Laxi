@@ -1,6 +1,7 @@
 import './App.css';
 import NavBar from './assets/Navbar';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import Heading1 from './assets/Heading1';
 import FAQSection from './assets/FAQ';
 import Heading from './assets/Heading';
 import TechnologyStack from './assets/TechnologyStack';
@@ -17,13 +18,13 @@ function App() {
     <>
       <NavBar />
       <Title />
-      <SearchBox />
+      {/* <SearchBox /> */}
       <Heading />
       <TechnologyStack />
       <Heading1 />
       <TeamInfo />
       <FAQSection />
-      <Background />
+      {/* <Background /> */}
       {/* <MainSliderComponent /> */}
       {/* <Login /> */}
       {/* <GetInTouch /> */}

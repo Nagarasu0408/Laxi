@@ -1,9 +1,12 @@
-import react1 from './Images/react1.jpg'
-import aws from './Images/aws.jpg'
-import mongo from './Images/atlas.jpg'
-import fire from './Images/fire.jpg'
-import vscode from './Images/vscode.jpg'
-
+import react1 from './Images/react1.jpg';
+import aws from './Images/aws.jpg';
+import adobe from './Images/adobe.png'; 
+import figma from './Images/figma.png';
+import flutter from './Images/Flutter.jpg';
+import bootstrap from './Images/Bootstrap.jpeg';
+import tailwind from './Images/Tailwindcss.jpeg';
+import kotlin from './Images/Kotlin.jpeg';
+import react from './Images/react.png';
 function TechnologyStack() {
     return (<>
 
@@ -15,7 +18,7 @@ function TechnologyStack() {
                 <div class="container bootstrap snippets bootdey">
                     <div class="timeline">
                         <div class="date-title">
-                            <span>March 2014</span>
+                            <span>UI/UX Design and Frameworks</span>
                         </div>
                         <div class="row">
                             <div class="col-sm-6 news-item">
@@ -24,15 +27,15 @@ function TechnologyStack() {
                                         <p>28</p>
                                         <small>Fri</small>
                                     </div> */}
-                                    <h2 class="news-title">React-Native</h2>
+                                    <h2 class="news-title">Figma</h2>
                                     <div class="news-media">
                                         <a class="colorbox cboxElement" href="#">
-                                            <img class="img-responsive" src={react1} alt="react" style={{width : '75px', height:'75px'}} />
+                                            <img class="img-responsive" src={figma} alt="react" style={{width : '75px', height:'75px'}} />
                                         </a>
                                     </div>
                                     <p>
-                                        React Native is an open-source framework created by Facebook for building mobile applications using JavaScript and React. It enables developers to create applications for iOS, Android, and other platforms with a single codebase. .</p>
-                                    {/* <a class="read-more" href="#">Read More</a> */}
+                                    Figma is a powerful, web-based design tool that has become essential in mobile application development due to its collaborative capabilities and comprehensive features. Its real-time collaboration allows designers, developers, and stakeholders to work simultaneously on a project, enhancing communication and efficiency. </p>
+                                    <a class="read-more" href="https://help.figma.com/hc/en-us">Read More</a>
                                 </div>
                             </div>
 
@@ -42,15 +45,15 @@ function TechnologyStack() {
                                         <p>27</p>
                                         <small>Thu</small>
                                     </div> */}
-                                    <h2 class="news-title">AWS Amplify</h2>
+                                    <h2 class="news-title">PhotoShop</h2>
                                     <div class="news-media gallery">
                                         <a class="colorbox cboxElement" href="#">
-                                        <img class="img-responsive" src={aws} alt="aws" style={{width : '75px', height:'75px'}} />
+                                        <img class="img-responsive" src={adobe} alt="aws" style={{width : '75px', height:'75px'}} />
                                         </a>
                                         <a class="colorbox cboxElement" href="#"></a>
                                     </div>
-                                    <p>AWS Amplify is a comprehensive development platform from Amazon Web Services that simplifies building, deploying, and managing mobile and web applications. It provides a set of tools and services to help developers create full-stack applications with seamless integration to the AWS cloud.</p>
-                                    {/* <a class="read-more" href="#">Read More</a> */}
+                                    <p>Adobe Photoshop is a pivotal tool in mobile application development due to its robust image editing capabilities and versatility. It enables designers to create and manipulate high-quality graphics, ensuring that visual elements in mobile apps are polished and professional. </p>
+                                    <a class="read-more" href="https://helpx.adobe.com/photoshop/user-guide.html">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -62,14 +65,14 @@ function TechnologyStack() {
                                         <p>26</p>
                                         <small>Wen</small>
                                     </div> */}
-                                    <h2 class="news-title">MongoDB Atlas</h2>
+                                    <h2 class="news-title">React Js</h2>
                                     <div class="news-media video">
                                         <a class="colorbox-video cboxElement" href="#">
-                                        <img class="img-responsive" src={mongo} alt="mongo" style={{width : '75px', height:'75px'}} />
+                                        <img class="img-responsive" src={react} alt="mongo" style={{width : '75px', height:'75px'}} />
                                         </a>
                                     </div>
-                                    <p>MongoDB Atlas is a fully managed cloud database service provided by MongoDB, designed to handle the complexities of deploying, managing, and scaling MongoDB databases. It offers a suite of tools and features to facilitate the development and operation of modern applications.</p>
-                                    {/* <a class="read-more" href="#">Read More</a> */}
+                                    <p>React.js is vital in web application development due to its efficiency, flexibility, and developer-friendly features. Its component-based architecture allows for reusable, modular UI components, making code more manageable and scalable. </p>
+                                    <a class="read-more" href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started">Read More</a>
                                 </div>
                             </div>
 
@@ -79,16 +82,16 @@ function TechnologyStack() {
                                         <p>25</p>
                                         <small>Tue</small>
                                     </div> */}
-                                    <h2 class="news-title">Firebase Authentication</h2>
+                                    <h2 class="news-title">Bootstrap</h2>
                                     <div class="news-media gallery">
                                         <a class="colorbox cboxElement" href="#">
-                                        <img class="img-responsive" src={fire} alt="firebase" style={{width : '75px', height:'75px'}} />
+                                        <img class="img-responsive" src={bootstrap} alt="firebase" style={{width : '75px', height:'75px'}} />
                                         </a>
                                         <a class="colorbox cboxElement" href="#"></a>
                                     </div>
                                     <p>
-                                        Firebase Authentication is a service provided by Google as part of the Firebase platform, designed to help developers easily integrate secure authentication into their applications. It supports a wide range of authentication methods, offering both simplicity and flexibility.</p>
-                                    {/* <a class="read-more" href="#">Read More</a> */}
+                                    Bootstrap is essential in web application development due to its comprehensive framework that simplifies and accelerates the design process. As a powerful front-end toolkit, Bootstrap provides a rich set of pre-designed components, such as buttons, forms, and navigation bars, enabling developers to create responsive, mobile-first web applications with minimal effort.</p>
+                                    <a class="read-more" href="https://getbootstrap.com/docs/5.0/getting-started/introduction/">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -103,19 +106,74 @@ function TechnologyStack() {
                                         <p>27</p>
                                         <small>Thu</small>
                                     </div> */}
-                                    <h2 class="news-title">Visual Studio Code</h2>
+                                    <h2 class="news-title">Tailwind CSS</h2>
                                     <div class="news-media video">
                                         <a class="colorbox-video cboxElement" href="#">
-                                        <img class="img-responsive" src={vscode} alt="vscode" style={{width : '75px', height:'75px'}} />
+                                        <img class="img-responsive" src={tailwind} alt="vscode" style={{width : '75px', height:'75px'}} />
                                         </a>
                                     </div>
                                     <p>
-                                        Visual Studio Code (VS Code) is a lightweight, powerful code editor developed by Microsoft, widely used for various types of software development, including mobile application development. It provides a rich set of features that enhance productivity and streamline the development process for mobile apps.</p>
-                                    {/* <a class="read-more" href="#">Read More</a> */}
+                                    Tailwind CSS is a highly significant tool in web application development due to its utility-first approach, which promotes rapid and efficient styling. Unlike traditional CSS frameworks, Tailwind provides a comprehensive set of low-level utility classes that can be combined to create custom designs directly within the HTML markup. 
+
+</p>
+                                    <a class="read-more" href="https://tailwindcss.com/docs/installation">Read More</a>
                                 </div>
                             </div>
-
-
+                            <div class="col-sm-6 news-item right">
+                                <div class="news-content">
+                                    {/* <div class="date">
+                                        <p>25</p>
+                                        <small>Tue</small>
+                                    </div> */}
+                                    <h2 class="news-title">Flutter</h2>
+                                    <div class="news-media gallery">
+                                        <a class="colorbox cboxElement" href="#">
+                                        <img class="img-responsive" src={flutter} alt="firebase" style={{width : '75px', height:'75px'}} />
+                                        </a>
+                                        <a class="colorbox cboxElement" href="#"></a>
+                                    </div>
+                                    <p>
+                                    Flutter is crucial in mobile application development for its ability to create high-quality, natively compiled applications for both Android and iOS from a single codebase. Developed by Google, Flutter accelerates development, reducing both time and costs.</p>
+                                    <a class="read-more" href="https://docs.flutter.dev/">Read More</a>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 news-item">
+                                <div class="news-content">
+                                    {/* <div class="date">
+                                        <p>25</p>
+                                        <small>Tue</small>
+                                    </div> */}
+                                    <h2 class="news-title">Kotlin</h2>
+                                    <div class="news-media gallery">
+                                        <a class="colorbox cboxElement" href="#">
+                                        <img class="img-responsive" src={kotlin} alt="firebase" style={{width : '75px', height:'75px'}} />
+                                        </a>
+                                        <a class="colorbox cboxElement" href="#"></a>
+                                    </div>
+                                    <p>
+                                    Kotlin has become crucial in mobile application development due to its seamless interoperability with Java, enhanced safety features, and concise syntax. Officially supported by Google for Android development, Kotlin addresses many of Java's shortcomings, making code more readable and less prone to errors. </p>
+                                    <a class="read-more" href="https://getbootstrap.com/docs/5.0/getting-started/introduction/">Read More</a>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 news-item right">
+                                <div class="news-content">
+                                    {/* <div class="date">
+                                        <p>25</p>
+                                        <small>Tue</small>
+                                    </div> */}
+                                    <h2 class="news-title">AWS</h2>
+                                    <div class="news-media gallery">
+                                        <a class="colorbox cboxElement" href="#">
+                                        <img class="img-responsive" src={aws} alt="firebase" style={{width : '75px', height:'75px'}} />
+                                        </a>
+                                        <a class="colorbox cboxElement" href="#"></a>
+                                    </div>
+                                    <p>
+                                    AWS plays a vital role in mobile application development by providing a scalable, secure, and reliable cloud infrastructure. It offers a suite of services specifically tailored for mobile apps, such as AWS Amplify, which simplifies backend development, authentication, and real-time data synchronization.</p>
+                                    <a class="read-more" href="https://getbootstrap.com/docs/5.0/getting-started/introduction/">Read More</a>
+                                </div>
+                            </div>
+                          
                         </div>
                     </div>
                 </div>
