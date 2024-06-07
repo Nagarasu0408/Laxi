@@ -1,5 +1,5 @@
 import react1 from './Images/react1.jpg';
-import aws from './Images/aws.jpg';
+import aws from './Images/aws2.jpeg';
 import adobe from './Images/adobe.png'; 
 import figma from './Images/figma.png';
 import flutter from './Images/Flutter.jpg';
@@ -7,6 +7,9 @@ import bootstrap from './Images/Bootstrap.jpeg';
 import tailwind from './Images/Tailwindcss.jpeg';
 import kotlin from './Images/Kotlin.jpeg';
 import react from './Images/react.png';
+import fire from './Images/Firebase.jpeg';
+import playstore from './Images/playstore.png';
+import Appstore from './Images/app-store.jpg';
 function TechnologyStack() {
     return (<>
 
@@ -34,7 +37,9 @@ function TechnologyStack() {
                                         </a>
                                     </div>
                                     <p>
-                                    Figma is a powerful, web-based design tool that has become essential in mobile application development due to its collaborative capabilities and comprehensive features. Its real-time collaboration allows designers, developers, and stakeholders to work simultaneously on a project, enhancing communication and efficiency. </p>
+                                    Figma is a powerful, web-based design tool that has become essential in mobile application development due to its collaborative capabilities
+                                     and comprehensive features. Its real-time collaboration allows designers, developers, and stakeholders to work simultaneously on a project, 
+                                     enhancing communication and efficiency. </p>
                                     <a class="read-more" href="https://help.figma.com/hc/en-us">Read More</a>
                                 </div>
                             </div>
@@ -57,7 +62,9 @@ function TechnologyStack() {
                                 </div>
                             </div>
                         </div>
-
+                        <div class="date-title">
+                        <span>Module-1 Frontend</span>
+                          </div>
                         <div class="row">
                             <div class="col-sm-6 news-item">
                                 <div class="news-content">
@@ -119,7 +126,10 @@ function TechnologyStack() {
                                     <a class="read-more" href="https://tailwindcss.com/docs/installation">Read More</a>
                                 </div>
                             </div>
-                            <div class="col-sm-6 news-item right">
+                            <div class="date-title">
+                          <span>Module-2 Frontend</span>
+                                 </div>
+                            <div class="col-sm-6 news-item">
                                 <div class="news-content">
                                     {/* <div class="date">
                                         <p>25</p>
@@ -137,7 +147,7 @@ function TechnologyStack() {
                                     <a class="read-more" href="https://docs.flutter.dev/">Read More</a>
                                 </div>
                             </div>
-                            <div class="col-sm-6 news-item">
+                            <div class="col-sm-6 news-item right">
                                 <div class="news-content">
                                     {/* <div class="date">
                                         <p>25</p>
@@ -152,10 +162,13 @@ function TechnologyStack() {
                                     </div>
                                     <p>
                                     Kotlin has become crucial in mobile application development due to its seamless interoperability with Java, enhanced safety features, and concise syntax. Officially supported by Google for Android development, Kotlin addresses many of Java's shortcomings, making code more readable and less prone to errors. </p>
-                                    <a class="read-more" href="https://getbootstrap.com/docs/5.0/getting-started/introduction/">Read More</a>
+                                    <a class="read-more" href="https://kotlinlang.org/docs/home.html">Read More</a>
                                 </div>
                             </div>
-                            <div class="col-sm-6 news-item right">
+                            <div class="date-title">
+                     <span>Module-2 Backened</span>
+                             </div>
+                            <div class="col-sm-6 news-item ">
                                 <div class="news-content">
                                     {/* <div class="date">
                                         <p>25</p>
@@ -169,11 +182,75 @@ function TechnologyStack() {
                                         <a class="colorbox cboxElement" href="#"></a>
                                     </div>
                                     <p>
-                                    AWS plays a vital role in mobile application development by providing a scalable, secure, and reliable cloud infrastructure. It offers a suite of services specifically tailored for mobile apps, such as AWS Amplify, which simplifies backend development, authentication, and real-time data synchronization.</p>
-                                    <a class="read-more" href="https://getbootstrap.com/docs/5.0/getting-started/introduction/">Read More</a>
+                                    AWS plays a vital role in mobile application development by providing a scalable, secure, and reliable cloud infrastructure. 
+                                    It offers a suite of services specifically tailored for mobile apps, such as AWS Amplify, which simplifies backend development, authentication, 
+                                    and real-time data synchronization.</p>
+                                    <a class="read-more" href="https://docs.aws.amazon.com/?nc2=h_ql_doc_do">Read More</a>
                                 </div>
                             </div>
-                          
+                            <div class="col-sm-6 news-item right">
+                           <div class="news-content">
+                       {/* <div class="date">
+                         <p>25</p>
+                           <small>Tue</small>
+                              </div> */}
+                        <h2 class="news-title">Firebase Authentication</h2>
+                      <div class="news-media gallery">
+                   <a class="colorbox cboxElement" href="#">
+                    <img class="img-responsive" src={fire} alt="firebase" style={{width : '75px', height:'75px'}} />
+                       </a>
+                       <a class="colorbox cboxElement" href="#"></a>
+                         </div>
+                       <p>
+                      Firebase Authentication is crucial in mobile applications utilizing cloud services due to its robust and streamlined user authentication process. 
+                      It simplifies the implementation of secure sign-in methods, including email/password, phone number, and social media logins, which are essential 
+                      for enhancing user experience and ensuring security.
+                      </p>
+                      <a class="read-more" href="https://firebase.google.com/docs/auth/">Read More</a>
+                        </div>
+                         </div>
+                         <div class="date-title">
+                    <span>Publish Partner</span>
+                             </div>
+                             <div class="col-sm-6 news-item ">
+               <div class="news-content">
+           {/* <div class="date">
+             <p>25</p>
+               <small>Tue</small>
+                  </div> */}
+            <h2 class="news-title">Playstore</h2>
+          <div class="news-media gallery">
+       <a class="colorbox cboxElement" href="#">
+        <img class="img-responsive" src={playstore} alt="firebase" style={{width : '75px', height:'75px'}} />
+           </a>
+           <a class="colorbox cboxElement" href="#"></a>
+             </div>
+           <p>
+           The Google Play Store is vital for mobile applications as it provides a vast distribution platform, reaching billions of Android users worldwide. It offers developers a straightforward way to publish, update, and manage their apps, ensuring they remain accessible and up-to-date.   
+          </p>
+          {/* <a class="read-more" href="https://firebase.google.com/docs/auth/">Read More</a> */}
+            </div>
+             </div>
+             <div class="col-sm-6 news-item right">
+               <div class="news-content">
+           {/* <div class="date">
+             <p>25</p>
+               <small>Tue</small>
+                  </div> */}
+            <h2 class="news-title">AppStore</h2>
+          <div class="news-media gallery">
+       <a class="colorbox cboxElement" href="#">
+        <img class="img-responsive" src={Appstore} alt="firebase" style={{width : '75px', height:'75px'}} />
+           </a>
+           <a class="colorbox cboxElement" href="#"></a>
+             </div>
+           <p>
+           The Apple App Store is essential for mobile applications with cloud services, providing a secure and trusted platform for distribution and updates. It enhances app visibility and user trust, ensures stringent security and privacy standards, and supports seamless integration with iCloud, enabling robust and reliable cloud-based functionalities.
+          </p>
+          {/* <a class="read-more" href="https://firebase.google.com/docs/auth/">Read More</a> */}
+            </div>
+             </div>
+         
                         </div>
                     </div>
                 </div>
