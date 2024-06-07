@@ -6,19 +6,19 @@ const songs = [
     {
         id: 1,
         title: "User Stories",
-        artist: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text  is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        artist: "Offers a clarity in requirements, prioritize user needs, enhance communication, foster stakeholder collaboration, and support iterative development. They ensure alignment with business goals, facilitate continuous feedback, and improve the user experience, ultimately leading to efficient and user-focused cloud solutions",
         img: "https://tsh.io/wp-content/uploads/2019/10/how-to-write-good-user-stories-the-software-house-way.jpg"
     },
     {
         id: 2,
         title: "Application Template",
-        artist: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        artist: "Application templates in cloud services provide pre-configured setups, streamline deployment, ensure best practices, enhance scalability, and improve security. They offer standardization, reduce setup time, and simplify complex configurations. Templates support rapid development, ease maintenance, and ensure consistency across environments, fostering efficient and reliable cloud-based applications.",
         img: "https://img.freepik.com/premium-vector/native-mobile-app-abstract-concept-vector-illustration_107173-24939.jpg"
     },
     {
         id: 3,
         title: "Provide Cloud Services",
-        artist: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        artist: "Cloud services offer scalability, on-demand resource access, cost-efficiency, and high availability. They provide data storage, processing power, and software applications. Features include automatic updates, disaster recovery, security, global accessibility, and collaboration tools. These services enable rapid deployment, flexibility, and innovation, supporting diverse business needs and technological advancements.",
         img: "https://img.freepik.com/premium-vector/backup-server-abstract-concept-vector-illustration_107173-29928.jpg"
     }
 ];
