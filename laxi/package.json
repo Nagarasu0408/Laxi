@@ -3,9 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@studio-freight/lenis": "^1.0.42",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "aos": "^2.3.4",
     "bootstrap": "^5.3.3",
     "feather-icons": "^4.29.2",
     "momentum-slider": "^0.0.8",
@@ -14,8 +16,10 @@
     "react-bootstrap": "^2.10.2",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
+    "react-scroll": "^1.9.0",
     "react-swipeable": "^7.0.1",
     "sass": "^1.77.4",
+    "scrollmagic": "^2.0.8",
     "swiper": "^11.1.4",
     "web-vitals": "^2.1.4"
   },
