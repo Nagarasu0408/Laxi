@@ -535,11 +535,6 @@ function TeamInfo() {
                                                 </div>
                                             </div>
 
-<<<<<<< HEAD
-                                          
-=======
-
->>>>>>> Team
                                         </div>
                                     </div>
                                 </div>
@@ -559,24 +554,19 @@ function TeamInfo() {
                                         <div class="ms-3">
                                             <div>
                                                 <h4 class="card-title mb-2">Biography</h4>
-                                                <p class="mb-0 text-muted">With a passion for Web Development, I'm committed to leveraging my academic achievements to excel in a professional environmentk.</p>
+                                                <p class="mb-0 text-muted">With a passion for Web Development, I'm committed to leveraging my academic achievements to excel in a professional environment.</p>
                                             </div>
                                             <div class="row my-4">
                                                 <div class="col-md-12">
                                                     <div>
-                                                        <p class="text-muted mb-2 fw-medium"><i class="mdi mdi-email-outline me-2"></i>717821f260@gmail.com
+                                                        <p class="text-muted mb-2 fw-medium"><i class="mdi mdi-email-outline me-2"></i>vickybuvanesh@gmail.com
                                                         </p>
-                                                        <p class="text-muted fw-medium mb-0"><i class="mdi mdi-phone-in-talk-outline me-2"></i>+91 6374955726
+                                                        <p class="text-muted fw-medium mb-0"><i class="mdi mdi-phone-in-talk-outline me-2"></i>+91 9994104648
                                                         </p>
                                                     </div>
                                                 </div>
                                             </div>
 
-<<<<<<< HEAD
-                                          
-=======
-
->>>>>>> Team
                                         </div>
                                     </div>
                                 </div>
@@ -609,11 +599,6 @@ function TeamInfo() {
                                                 </div>
                                             </div>
 
-<<<<<<< HEAD
-                                          
-=======
-
->>>>>>> Team
                                         </div>
                                     </div>
                                 </div>
@@ -1019,11 +1004,6 @@ function TeamInfo() {
                                             </tbody>
                                         </table>
                                     </div>
-<<<<<<< HEAD
-                                    
-=======
-
->>>>>>> Team
                                 </div>
                             </div>
                             <div class="card-body">
@@ -1051,11 +1031,6 @@ function TeamInfo() {
                                             </tbody>
                                         </table>
                                     </div>
-<<<<<<< HEAD
-                                    
-=======
-
->>>>>>> Team
                                 </div>
                             </div>
                             <div class="card-body">
@@ -1083,11 +1058,6 @@ function TeamInfo() {
                                             </tbody>
                                         </table>
                                     </div>
-<<<<<<< HEAD
-                                    
-=======
-
->>>>>>> Team
                                 </div>
                             </div>
                         </div>

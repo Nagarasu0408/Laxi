@@ -1,12 +1,6 @@
 import React from 'react'
 
-<<<<<<< HEAD
-export const Navbar = () => {
-  return (
-    <div>Navbar</div>
-  )
-=======
-function NavBar() {
+export default function NavBar() {
     return (
         // <Navbar bg="light" expand="lg">
         //     <Container fluid>
@@ -41,6 +35,4 @@ function NavBar() {
             </div>
         </div>
     );
->>>>>>> Team
 }
-export default Navbar

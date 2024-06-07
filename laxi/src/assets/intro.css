@@ -53,8 +53,8 @@ img {
     border-radius: 8px;
     max-width: 412px;
     min-width: auto;
-    height: auto;
-    padding: 36px 20px;
+    height: 60vh;
+    padding: 25px 10px 36px 30px;
 }
 
 
@@ -85,6 +85,7 @@ img {
     font-size: 16px;
     font-style: normal;
     color: #292929;
+    text-align: justify;
 }
 
 .info-area {

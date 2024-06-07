@@ -6,15 +6,11 @@ import Heading from './assets/Heading';
 import TechnologyStack from './assets/TechnologyStack';
 import TeamInfo from './assets/TeamInfo';
 import Title from './assets/Title';
-<<<<<<< HEAD
-import Heading1 from './assets/Heading1';
-=======
 import Intro from './assets/intro';
 import Prototype from './assets/prototype';
 import WorkingFlow from './assets/workingflow';
 // import Scroll from './assets/scroll';
 // import LogoDescription from './assets/logoDescription';
->>>>>>> Team
 // import MainSliderComponent from './assets/MainSliderComponent';
 // import Login from './assets/login';
 // import GetInTouch from './assets/contactus';
@@ -26,18 +22,6 @@ function App() {
     <>
       <NavBar />
       <Title />
-<<<<<<< HEAD
-      {/* <SearchBox /> */}
-      <Heading />
-      <TechnologyStack />
-      <Heading1 />
-      <TeamInfo />
-      <FAQSection />
-      {/* <Background /> */}
-      {/* <MainSliderComponent />
-      <Login />
-      <GetInTouch /> */}
-=======
       <Prototype />
       <Intro />
       <Heading title="Technology Stacks" />
@@ -54,7 +38,6 @@ function App() {
       {/* <MainSliderComponent /> */}
       {/* <Login /> */}
       {/* <GetInTouch /> */}
->>>>>>> Team
     </>
   );
 }

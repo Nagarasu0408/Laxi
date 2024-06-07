@@ -5,20 +5,20 @@ import './intro.css';
 const songs = [
     {
         id: 1,
-        title: "User Stories",
-        artist: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text  is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        title: "Join the community",
+        artist: "Dive into a vibrant community where innovation thrives, questions find answers, and challenges meet brilliant solutions. Whether you're a seasoned developer or just starting out, our platform offers unparalleled tools and support to fuel your success. Connect, create, and conquer the app world with us. With Single Source Business Platform, your app dreams are just a click away – let your imagination soar and watch your ideas take flight! Join us today and be part of a revolution in app development.",
         img: "https://tsh.io/wp-content/uploads/2019/10/how-to-write-good-user-stories-the-software-house-way.jpg"
     },
     {
         id: 2,
-        title: "Application Template",
-        artist: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        title: "Customize your application",
+        artist: "Applications can be customized by every user using pre-designed templates or altered based on personal preferences with the assets provided. Engage with a dynamic community and leverage cutting-edge tools to bring your vision to life. Whether you're creating a unique app from scratch or enhancing existing templates, our platform empowers you to achieve your goals with ease. Experience the future of app development – where your creativity knows no bounds!",
         img: "https://img.freepik.com/premium-vector/native-mobile-app-abstract-concept-vector-illustration_107173-24939.jpg"
     },
     {
         id: 3,
-        title: "Provide Cloud Services",
-        artist: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        title: "Integrated cloud service",
+        artist: "Experience peace of mind knowing that the applications offered by our platform are seamlessly integrated with active cloud services. Say goodbye to concerns about performance and stability – we've got you covered. With our robust cloud infrastructure, your applications will run smoothly and reliably, even during peak usage times. Focus on what matters most – building and growing your app – while we handle the backend seamlessly.  Elevate your app experience with our platform and unlock the true potential of your creations.",
         img: "https://img.freepik.com/premium-vector/backup-server-abstract-concept-vector-illustration_107173-29928.jpg"
     }
 ];
