@@ -15,52 +15,52 @@ function TechnologyStack() {
 
 
 
-        <div class="Techcontainer container bootstrap snippets bootdey">
-            <section id="news" class="white-bg padding-top-bottom">
-                <div class="container bootstrap snippets bootdey">
-                    <div class="timeline">
-                        <div class="date-title">
-                            <span>UI/UX Design and Frameworks</span>
-                        </div>
-                        <div class="row">
-                            <div class="col-sm-6 news-item">
-                                <div class="news-content">
-                                    {/* <div class="date">
-                                        <p>28</p>
-                                        <small>Fri</small>
-                                    </div> */}
-                                    <h2 class="news-title">Figma</h2>
-                                    <div class="news-media">
-                                        <a class="colorbox cboxElement" href="#">
-                                            <img class="img-responsive" src={figma} alt="react" style={{width : '75px', height:'75px'}} />
-                                        </a>
-                                    </div>
-                                    <p>
-                                    Figma is a powerful, web-based design tool that has become essential in mobile application development due to its collaborative capabilities
-                                     and comprehensive features. Its real-time collaboration allows designers, developers, and stakeholders to work simultaneously on a project, 
-                                     enhancing communication and efficiency. </p>
-                                    <a class="read-more" href="https://help.figma.com/hc/en-us">Read More</a>
-                                </div>
-                            </div>
+<div class="Techcontainer container bootstrap snippets bootdey">
+ <section id="news" class="white-bg padding-top-bottom">
+ <div class="container bootstrap snippets bootdey">
+ <div class="timeline">
+ <div class="date-title">
+ <span>UI/UX Design and Frameworks</span>
+ </div>
+  <div class="row">
+ <div class="col-sm-6 news-item">
+  <div class="news-content">
+     {/* <div class="date">
+      <p>28</p>
+   <small>Fri</small>
+     </div> */}
+  <h2 class="news-title">Figma</h2>
+  <div class="news-media">
+  <a class="colorbox cboxElement" href="#">
+  <img class="img-responsive" src={figma} alt="react" style={{width : '75px', height:'75px'}} />
+   </a>
+   </div>
+   <p>
+    Figma is a powerful, web-based design tool that has become essential in mobile application development due to its collaborative capabilities
+    and comprehensive features. Its real-time collaboration allows designers, developers, and stakeholders to work simultaneously on a project, 
+   enhancing communication and efficiency. </p>
+    <a class="read-more" href="https://help.figma.com/hc/en-us">Read More</a>
+    </div>
+    </div>
 
-                            <div class="col-sm-6 news-item right">
-                                <div class="news-content">
-                                    {/* <div class="date">
-                                        <p>27</p>
-                                        <small>Thu</small>
-                                    </div> */}
-                                    <h2 class="news-title">PhotoShop</h2>
-                                    <div class="news-media gallery">
-                                        <a class="colorbox cboxElement" href="#">
-                                        <img class="img-responsive" src={adobe} alt="aws" style={{width : '75px', height:'75px'}} />
-                                        </a>
-                                        <a class="colorbox cboxElement" href="#"></a>
-                                    </div>
-                                    <p>Adobe Photoshop is a pivotal tool in mobile application development due to its robust image editing capabilities and versatility. It enables designers to create and manipulate high-quality graphics, ensuring that visual elements in mobile apps are polished and professional. </p>
-                                    <a class="read-more" href="https://helpx.adobe.com/photoshop/user-guide.html">Read More</a>
-                                </div>
-                            </div>
-                        </div>
+    <div class="col-sm-6 news-item right">
+    <div class="news-content">
+    {/* <div class="date">
+    <p>27</p>
+   <small>Thu</small>
+   </div> */}
+    <h2 class="news-title">PhotoShop</h2>
+    <div class="news-media gallery">
+    <a class="colorbox cboxElement" href="#">
+    <img class="img-responsive" src={adobe} alt="aws" style={{width : '75px', height:'75px'}} />
+    </a>
+    <a class="colorbox cboxElement" href="#"></a>
+    </div>
+    <p>Adobe Photoshop is a pivotal tool in mobile application development due to its robust image editing capabilities and versatility. It enables designers to create and manipulate high-quality graphics, ensuring that visual elements in mobile apps are polished and professional. </p>
+    <a class="read-more" href="https://helpx.adobe.com/photoshop/user-guide.html">Read More</a>
+    </div>
+    </div>
+   </div>
                         <div class="date-title">
                         <span>Module-1 Frontend</span>
                           </div>
