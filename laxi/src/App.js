@@ -30,6 +30,7 @@ function App() {
       <WorkingFlow />
       <Heading title="Team Details" />
       <TeamInfo />
+      <Heading title="Frequently Asked Question" />
       <FAQSection />
       {/* <Scroll /> */}
       {/* <LogoDescription /> */}

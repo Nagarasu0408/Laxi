@@ -2,20 +2,14 @@ function FAQSection() {
     return (
         <>
             <div>
-                <section id="faq" class="faq section-bg">
+                <section className="faq" class="faq section-bg">
                     <div class="container" data-aos="fade-up">
-
-                        <div class="section-title">
-                            <h2>Frequently Asked Questions</h2>
-                            {/* <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> */}
-                        <p>Below You'll find the answers to the question we get asked the most about providing services to the physical labours with virtual services.</p>
-                        </div>
-
                         <div class="faq-list">
+                        {/* <p>Below You'll find the answers to the question we get asked the most about providing services to the physical labours with virtual services.</p> */}
                             <ul>
                                 <li data-aos="fade-up" data-aos-delay="100">
                                     <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" class="collapse" data-bs-target="#faq-list-1">How can cloud services reach individuals who may not be familiar with them, such as poor labours? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-                                    <div id="faq-list-1" class="collapse show" data-bs-parent=".faq-list">
+                                    <div id="faq-list-1" class="collapse" data-bs-parent=".faq-list">
                                         <p>
                                         Collaborate with local community organizations, NGOs, or government agencies that work directly with poor laborers to raise awareness about the benefits of cloud services and provide educational resources and also Provide resources and support in local languages to ensure that information about cloud services is accessible and relevant to the target audience.</p>                                    </div>
                                 </li>
