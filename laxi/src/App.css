@@ -1227,11 +1227,28 @@ h4 {
 .Images11
 {
   width: 70%;
-  height: 70%;
+  height: auto;
+  border-radius: 30px;
 }
-
-
-
+#planning{ 
+ margin-top: 60px;
+  font-size: 1.2rem;
+  margin-left: -90px;
+}
+#selecting{  
+  margin-top: 60px;
+  font-size: 1.2rem;
+  
+}
+#developing{  
+  margin-top: 60px;
+  font-size: 1.2rem;
+  margin-left: -90px;
+}
+#testing{  
+  margin-top: 60px;
+  font-size: 1.2rem;
+}
 
 
 
