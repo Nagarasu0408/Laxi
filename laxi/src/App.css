@@ -1223,6 +1223,10 @@ h4 {
 .container {
   display: flex;
   flex-wrap: wrap; /* Allow items to wrap to the next line */
+  align-items: center;
+  padding: 20px;
+  justify-content: space-between;
+  flex-direction: row;
 }
 .Images11
 {
@@ -1232,22 +1236,22 @@ h4 {
 }
 #planning{ 
  margin-top: 60px;
-  font-size: 1.2rem;
+  font-size: 1.0rem;
   margin-left: -90px;
 }
 #selecting{  
   margin-top: 60px;
-  font-size: 1.2rem;
+  font-size: 1.0rem;
   
 }
 #developing{  
   margin-top: 60px;
-  font-size: 1.2rem;
+  font-size: 1.0rem;
   margin-left: -90px;
 }
 #testing{  
   margin-top: 60px;
-  font-size: 1.2rem;
+  font-size: 1.0rem;
 }
 
 
@@ -1255,17 +1259,29 @@ h4 {
 /* Media query for responsiveness */
 @media (max-width: 768px) {
   .item {
-    width: 100%; /* Each item takes full width on smaller screens */
-    flex-direction: column; /* Stack items vertically */
-    align-items: flex-start; /* Align items to the start on smaller screens */
+    width: 100%; 
+    flex-direction: column; 
+    align-items: flex-start; 
   }
 
-  .image {
-    margin-right: 0; /* Reset margin for image on smaller screens */
-    margin-bottom: 10px; /* Add space between image and text on smaller screens */
+  .Images11 {
+    margin-right: 0; 
+    margin-bottom: 10px; 
   }
 }
-
+@media (max-width:370px)
+{
+.Images11
+{
+  width: 70%;
+  height: auto;
+  border-radius: 30px;
+}
+#planning
+{
+  width:175px;
+}
+}
 
 
 
