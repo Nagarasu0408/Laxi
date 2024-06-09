@@ -1,24 +1,49 @@
+import planning from './Images/TechnologyStack/planning1.jpg';
+import selection from './Images/TechnologyStack/selection1.jpg';
+import developing from './Images/TechnologyStack/development.png';
+import testing from './Images/TechnologyStack/testing1.jpg';
 function WorkingFlow() {
-    return (
-        <>
-            <div id="list-example" class="list-group">
-                <a class="list-group-item list-group-item-action" href="#list-item-1">Item 1</a>
-                <a class="list-group-item list-group-item-action" href="#list-item-2">Item 2</a>
-                <a class="list-group-item list-group-item-action" href="#list-item-3">Item 3</a>
-                <a class="list-group-item list-group-item-action" href="#list-item-4">Item 4</a>
+      return (
+      <div className="container">
+        <div className="row">
+            <div className="col-5">
+               <img src={planning} alt='planning' className='Images11'></img>
             </div>
-            <div data-bs-spy="scroll" data-bs-target="#list-example" data-bs-offset="0" class="scrollspy-example" tabindex="0">
-                <h4 id="list-item-1">Item 1</h4>
-                <p>Dolore ad et minim laborum velit irure non labore cillum qui.Laboris reprehenderit officia consequat exercitation deserunt proident cupidatat.Cupidatat nulla quis non magna deserunt culpa anim ad labore qui voluptate deserunt excepteur Lorem.Quis anim veniam ullamco consectetur nisi labore ex consectetur fugiat irure ea Lorem ad.Ea cupidatat ullamco aliquip sit.Est commodo et duis qui irure incididunt magna sunt ipsum excepteur nostrud.Culpa eu sint excepteur velit non nulla amet enim occaecat elit sit fugiat laboris labore.Incididunt commodo dolor reprehenderit aliqua.Sit et ex tempor adipisicing.</p>
-                <h4 id="list-item-2">Item 2</h4>
-                <p>...</p>
-                <h4 id="list-item-3">Item 3</h4>
-                <p>...</p>
-                <h4 id="list-item-4">Item 4</h4>
-                <p>...</p>
+            <div className="col-7" id="planning">
+               <h1>Planning and Service</h1>
+               <p>Defining the app’s goals, target audience, features, and cloud integration needs. The process includes designing wireframes, setting timelines, and budgeting. Development involves building the app’s front-end and back-end, leveraging cloud services for storage, authentication, and real-time data synchronization. Ensuring robust security and compliance with cloud providers is crucial.</p>
             </div>
-        </>
+        </div>
+        <div className="row">
+        <div className="col-7" id='selecting' >
+        <h1>Selecting Cloud Services</h1>
+        <p>Selecting cloud services for mobile app development involves <br></br>evaluating providers based on your app's requirements. Key considerations<br></br> include scalability, ease of integration, cost, security, and available features. <br></br>Popular options are Firebase (Google) for real-time databases and seamless authentication, AWS (Amazon) for extensive infrastructure and machine learning capabilities, and Microsoft Azure for robust enterprise solutions and AI services. </p>
+        </div>
+       <div className="col-5">
+       <img src={selection} alt='selection' className='Images11'></img>
+       </div>
+       </div>
+       <div className="row">
+    <div className="col-5">
+       <img src={developing} alt='planning' className='Images11'></img>
+    </div>
+    <div className="col-7" id='developing'>
+       <h1>Development</h1>
+       <p>First, choose a cloud provider like Firebase, AWS, or Azure. Begin with defining the app’s features and user requirements. Develop the front-end using frameworks like React Native or Flutter. Integrate cloud services for authentication, database management, storage, and real-time data syncing. Implement security protocols to protect data. Perform rigorous testing to ensure functionality and performance. Deploy the app on platforms like Google Play and Apple App Store.</p>
+    </div>
+</div>
+<div className="row">
+ <div className="col-7" id='testing'>
+ <h1>Testing</h1>
+ <p>Testing mobile apps integrated with cloud services involves several critical steps. First, functional testing ensures that all features work as intended, including cloud-based authentication and data synchronization. Performance testing evaluates the app’s responsiveness and load-handling capabilities, particularly during peak usage times. Security testing is crucial to protect user data and prevent breaches.</p>
+ </div>
+<div className="col-5">
+<img src={testing} alt='planning' className='Images11'></img>
+</div>
+</div>
+      </div> 
     );
+   
 }
 
 export default WorkingFlow;
