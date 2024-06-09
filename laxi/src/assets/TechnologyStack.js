@@ -1,216 +1,14 @@
-// function TechnologyStack() {
-//     return (<>
-
-
-
-
-//         <div class="Techcontainer container bootstrap snippets bootdey">
-//             <section id="news" class="white-bg padding-top-bottom">
-//                 <div class="container bootstrap snippets bootdey">
-//                     <div class="timeline">
-//                         <div class="date-title">
-//                             <span>Backend Technology</span>
-//                         </div>
-//                         <div class="row">
-//                             <div class="col-sm-6 news-item">
-//                                 <div class="news-content">
-//                                     <div class="date">
-//                                         <p>28</p>
-//                                         <small>Fri</small>
-//                                     </div>
-//                                     <h2 class="news-title">Title 1</h2>
-//                                     <div class="news-media">
-//                                         <a class="colorbox cboxElement" href="#">
-//                                             <img class="img-responsive" src="https://www.bootdey.com/image/400x400/FFB6C1/000000" alt="" />
-//                                         </a>
-//                                     </div>
-//                                     <p>No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure…</p>
-//                                     <a class="read-more" href="#">Read More</a>
-//                                 </div>
-//                             </div>
-
-//                             <div class="col-sm-6 news-item right">
-//                                 <div class="news-content">
-//                                     <div class="date">
-//                                         <p>27</p>
-//                                         <small>Thu</small>
-//                                     </div>
-//                                     <h2 class="news-title">Title 2</h2>
-//                                     <div class="news-media gallery">
-//                                         <a class="colorbox cboxElement" href="#">
-//                                             <img class="img-responsive" src="https://www.bootdey.com/image/400x400/87CEFA/000000" alt="" />
-//                                         </a>
-//                                         <a class="colorbox cboxElement" href="#"></a>
-//                                     </div>
-//                                     <p>But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure…</p>
-//                                     <a class="read-more" href="#">Read More</a>
-//                                 </div>
-//                             </div>
-//                         </div>
-
-//                         <div class="row">
-//                             <div class="col-sm-6 news-item">
-//                                 <div class="news-content">
-//                                     <div class="date">
-//                                         <p>26</p>
-//                                         <small>Wen</small>
-//                                     </div>
-//                                     <h2 class="news-title">Title 3</h2>
-//                                     <div class="news-media video">
-//                                         <a class="colorbox-video cboxElement" href="#">
-//                                             <img class="img-responsive" src="https://www.bootdey.com/image/400x400/7B68EE/000000" alt="" />
-//                                         </a>
-//                                     </div>
-//                                     <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized…</p>
-//                                     <a class="read-more" href="#">Read More</a>
-//                                 </div>
-//                             </div>
-
-//                             <div class="col-sm-6 news-item right">
-//                                 <div class="news-content">
-//                                     <div class="date">
-//                                         <p>25</p>
-//                                         <small>Tue</small>
-//                                     </div>
-//                                     <h2 class="news-title">Title 4</h2>
-//                                     <div class="news-media gallery">
-//                                         <a class="colorbox cboxElement" href="#">
-//                                             <img class="img-responsive" src="https://www.bootdey.com/image/400x400/BA55D3/000000" alt="" />
-//                                         </a>
-//                                         <a class="colorbox cboxElement" href="#"></a>
-//                                     </div>
-//                                     <p>The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains…</p>
-//                                     <a class="read-more" href="#">Read More</a>
-//                                 </div>
-//                             </div>
-//                         </div>
-
-//                         <div class="date-title">
-//                             <span>February 2014</span>
-//                         </div>
-//                         <div class="row">
-//                             <div class="col-sm-6 news-item">
-//                                 <div class="news-content">
-//                                     <div class="date">
-//                                         <p>27</p>
-//                                         <small>Thu</small>
-//                                     </div>
-//                                     <h2 class="news-title">Title 5</h2>
-//                                     <div class="news-media video">
-//                                         <a class="colorbox-video cboxElement" href="#">
-//                                             <img class="img-responsive" src="https://www.bootdey.com/image/400x400/DA70D6/000000" alt="" />
-//                                         </a>
-//                                     </div>
-//                                     <p>But who has any right to find fault with a man who chooses to enjoy a pleasure…</p>
-//                                     <a class="read-more" href="#">Read More</a>
-//                                 </div>
-//                             </div>
-
-//                             <div class="col-sm-6 news-item right">
-//                                 <div class="news-content">
-//                                     <div class="date">
-//                                         <p>24</p>
-//                                         <small>Mon</small>
-//                                     </div>
-//                                     <h2 class="news-title">Title 6</h2>
-//                                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-//                                     <a class="read-more" href="#">Read More</a>
-//                                 </div>
-//                             </div>
-//                         </div>
-//                     </div>
-//                 </div>
-//             </section>
-//         </div >
-//     </>);
-// }
-
-// export default TechnologyStack;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// <div class="container">
-//     <h4>Technology Stack</h4>
-//     <div class="row">
-//         <div class="col-md-12">
-//             <div class="main-timeline">
-//                 <a href="#" class="timeline">
-//                     <div class="timeline-icon"><i class="fa fa-globe"></i></div>
-//                     <div class="timeline-content">
-//                         <h3 class="title">Web Designer</h3>
-//                         <p class="description">
-//                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate ducimus officiis quod! Aperiam eveniet nam nostrum odit quasi ullam voluptatum.
-//                         </p>
-//                     </div>
-//                 </a>
-//                 <a href="#" class="timeline">
-//                     <div class="timeline-icon"><i class="fa fa-rocket"></i></div>
-//                     <div class="timeline-content">
-//                         <h3 class="title">Web Developer</h3>
-//                         <p class="description">
-//                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate ducimus officiis quod! Aperiam eveniet nam nostrum odit quasi ullam voluptatum.
-//                         </p>
-//                     </div>
-//                 </a>
-//                 <a href="#" class="timeline">
-//                     <div class="timeline-icon"><i class="fa fa-briefcase"></i></div>
-//                     <div class="timeline-content">
-//                         <h3 class="title">Web Designer</h3>
-//                         <p class="description">
-//                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate ducimus officiis quod! Aperiam eveniet nam nostrum odit quasi ullam voluptatum.
-//                         </p>
-//                     </div>
-//                 </a>
-//                 <a href="#" class="timeline">
-//                     <div class="timeline-icon"><i class="fa fa-mobile"></i></div>
-//                     <div class="timeline-content">
-//                         <h3 class="title">Web Developer</h3>
-//                         <p class="description">
-//                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate ducimus officiis quod! Aperiam eveniet nam nostrum odit quasi ullam voluptatum.
-//                         </p>
-//                     </div>
-//                 </a>
-//             </div>
-//         </div>
-//     </div>
-// </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-import react1 from './Images/TechnologyStack/react.jpg'
-import aws from './Images/TechnologyStack/AWS.png'
-import mongo from './Images/TechnologyStack/MongoDB-1000X1000.webp'
-import fire from './Images/TechnologyStack/firebase.png'
-import vscode from './Images/TechnologyStack/VScode.webp'
-
+import react from './Images/TechnologyStack/react.jpg';
+import aws from './Images/TechnologyStack/aws2.jpg';
+import adobe from './Images/TechnologyStack/adobe.jpg';
+import figma from './Images/TechnologyStack/figma.png';
+import flutter from './Images/TechnologyStack/flutter.jpeg';
+import bootstrap from './Images/TechnologyStack/bootstrap.png';
+import tailwind from './Images/TechnologyStack/tailwindcss.png';
+import kotlin from './Images/TechnologyStack/kotlin.jpg';
+import fire from './Images/TechnologyStack/firebase.png';
+import playstore from './Images/TechnologyStack/playstore.png';
+import Appstore from './Images/TechnologyStack/app-store.jpg';
 function TechnologyStack() {
     return (<>
 
@@ -222,70 +20,139 @@ function TechnologyStack() {
                 <div class="container bootstrap snippets bootdey">
                     <div class="timeline">
                         <div class="date-title">
-                            <span>March 2014</span>
+                            <span>UI/UX Design and Frameworks</span>
                         </div>
                         <div class="row">
                             <div class="col-sm-6 news-item">
                                 <div class="news-content">
-                                    {/* <div class="date">
-                                        <p>28</p>
-                                        <small>Fri</small>
-                                    </div> */}
-                                    <h2 class="news-title">React-Native</h2>
+                                    <h2 class="news-title">Figma</h2>
                                     <div class="news-media gallery">
                                         <a class="colorbox cboxElement" href="#">
-                                            <img class="img-responsive" src={react1} alt="react" style={{ width: '75px', height: '75px' }} />
+                                            <img class="img-responsive" src={figma} alt="react" style={{ width: '75px', height: '75px' }} />
                                         </a>
                                     </div>
                                     <p>
-                                        React Native is an open-source framework created by Facebook for building mobile applications using JavaScript and React. It enables developers to create applications for iOS, Android, and other platforms with a single codebase. .</p>
-                                    {/* <a class="read-more" href="#">Read More</a> */}
+                                        Figma is a powerful, web-based design tool that has become essential in mobile application development due to its collaborative capabilities
+                                        and comprehensive features. Its real-time collaboration allows designers, developers, and stakeholders to work simultaneously on a project,
+                                        enhancing communication and efficiency. </p>
+                                    <a class="read-more" href="https://help.figma.com/hc/en-us">Read More</a>
                                 </div>
                             </div>
 
                             <div class="col-sm-6 news-item right">
                                 <div class="news-content">
-                                    {/* <div class="date">
-                                        <p>27</p>
-                                        <small>Thu</small>
-                                    </div> */}
-                                    <h2 class="news-title">AWS Amplify</h2>
+                                    <h2 class="news-title">PhotoShop</h2>
                                     <div class="news-media gallery">
                                         <a class="colorbox cboxElement" href="#">
-                                            <img class="img-responsive" src={aws} alt="aws" style={{ width: '75px', height: '75px' }} />
+                                            <img class="img-responsive" src={adobe} alt="aws" style={{ width: '75px', height: '75px' }} />
                                         </a>
                                         <a class="colorbox cboxElement" href="#"></a>
                                     </div>
-                                    <p>AWS Amplify is a comprehensive development platform from Amazon Web Services that simplifies building, deploying, and managing mobile and web applications. It provides a set of tools and services to help developers create full-stack applications with seamless integration to the AWS cloud.</p>
-                                    {/* <a class="read-more" href="#">Read More</a> */}
+                                    <p>Adobe Photoshop is a pivotal tool in mobile application development due to its robust image editing capabilities and versatility. It enables designers to create and manipulate high-quality graphics, ensuring that visual elements in mobile apps are polished and professional. </p>
+                                    <a class="read-more" href="https://helpx.adobe.com/photoshop/user-guide.html">Read More</a>
                                 </div>
                             </div>
                         </div>
-
+                        <div class="date-title">
+                            <span>Module-1 Frontend</span>
+                        </div>
                         <div class="row">
                             <div class="col-sm-6 news-item">
                                 <div class="news-content">
-                                    {/* <div class="date">
-                                        <p>26</p>
-                                        <small>Wen</small>
-                                    </div> */}
-                                    <h2 class="news-title">MongoDB Atlas</h2>
+                                    <h2 class="news-title">React Js</h2>
                                     <div class="news-media gallery">
                                         <a class="colorbox-video cboxElement" href="#">
-                                            <img class="img-responsive" src={mongo} alt="mongo" style={{ width: '75px', height: '75px' }} />
+                                            <img class="img-responsive" src={react} alt="mongo" style={{ width: '75px', height: '75px' }} />
                                         </a>
                                     </div>
-                                    <p>MongoDB Atlas is a fully managed cloud database service provided by MongoDB, designed to handle the complexities of deploying, managing, and scaling MongoDB databases. It offers a suite of tools and features to facilitate the development and operation of modern applications.</p>
-                                    {/* <a class="read-more" href="#">Read More</a> */}
+                                    <p>React.js is vital in web application development due to its efficiency, flexibility, and developer-friendly features. Its component-based architecture allows for reusable, modular UI components, making code more manageable and scalable. </p>
+                                    <a class="read-more" href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started">Read More</a>
                                 </div>
                             </div>
 
                             <div class="col-sm-6 news-item right">
                                 <div class="news-content">
-                                    {/* <div class="date">
-                                        <p>25</p>
-                                        <small>Tue</small>
-                                    </div> */}
+                                    <h2 class="news-title">Bootstrap</h2>
+                                    <div class="news-media gallery">
+                                        <a class="colorbox cboxElement" href="#">
+                                            <img class="img-responsive" src={bootstrap} alt="firebase" style={{ width: '75px', height: '75px' }} />
+                                        </a>
+                                        <a class="colorbox cboxElement" href="#"></a>
+                                    </div>
+                                    <p>
+                                        Bootstrap is essential in web application development due to its comprehensive framework that simplifies and accelerates the design process. As a powerful front-end toolkit, Bootstrap provides a rich set of pre-designed components, such as buttons, forms, and navigation bars, enabling developers to create responsive, mobile-first web applications with minimal effort.</p>
+                                    <a class="read-more" href="https://getbootstrap.com/docs/5.0/getting-started/introduction/">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-6 news-item">
+                                <div class="news-content">
+                                    <h2 class="news-title">Tailwind CSS</h2>
+                                    <div class="news-media gallery">
+                                        <a class="colorbox-video cboxElement" href="#">
+                                            <img class="img-responsive" src={tailwind} alt="vscode" style={{ width: '75px', height: '75px' }} />
+                                        </a>
+                                    </div>
+                                    <p>
+                                        Tailwind CSS is a highly significant tool in web application development due to its utility-first approach, which promotes rapid and efficient styling. Unlike traditional CSS frameworks, Tailwind provides a comprehensive set of low-level utility classes that can be combined to create custom designs directly within the HTML markup.
+
+                                    </p>
+                                    <a class="read-more" href="https://tailwindcss.com/docs/installation">Read More</a>
+                                </div>
+                            </div>
+                            <div class="date-title">
+                                <span>Module-2 Frontend</span>
+                            </div>
+                            <div class="col-sm-6 news-item">
+                                <div class="news-content">
+                                    <h2 class="news-title">Flutter</h2>
+                                    <div class="news-media gallery">
+                                        <a class="colorbox cboxElement" href="#">
+                                            <img class="img-responsive" src={flutter} alt="firebase" style={{ width: '75px', height: '75px' }} />
+                                        </a>
+                                        <a class="colorbox cboxElement" href="#"></a>
+                                    </div>
+                                    <p>
+                                        Flutter is crucial in mobile application development for its ability to create high-quality, natively compiled applications for both Android and iOS from a single codebase. Developed by Google, Flutter accelerates development, reducing both time and costs.</p>
+                                    <a class="read-more" href="https://docs.flutter.dev/">Read More</a>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 news-item right">
+                                <div class="news-content">
+                                    <h2 class="news-title">Kotlin</h2>
+                                    <div class="news-media gallery">
+                                        <a class="colorbox cboxElement" href="#">
+                                            <img class="img-responsive" src={kotlin} alt="firebase" style={{ width: '75px', height: '75px' }} />
+                                        </a>
+                                        <a class="colorbox cboxElement" href="#"></a>
+                                    </div>
+                                    <p>
+                                        Kotlin has become crucial in mobile application development due to its seamless interoperability with Java, enhanced safety features, and concise syntax. Officially supported by Google for Android development, Kotlin addresses many of Java's shortcomings, making code more readable and less prone to errors. </p>
+                                    <a class="read-more" href="https://kotlinlang.org/docs/home.html">Read More</a>
+                                </div>
+                            </div>
+                            <div class="date-title">
+                                <span>Module-2 Backened</span>
+                            </div>
+                            <div class="col-sm-6 news-item ">
+                                <div class="news-content">
+                                    <h2 class="news-title">AWS</h2>
+                                    <div class="news-media gallery">
+                                        <a class="colorbox cboxElement" href="#">
+                                            <img class="img-responsive" src={aws} alt="firebase" style={{ width: '75px', height: '75px' }} />
+                                        </a>
+                                        <a class="colorbox cboxElement" href="#"></a>
+                                    </div>
+                                    <p>
+                                        AWS plays a vital role in mobile application development by providing a scalable, secure, and reliable cloud infrastructure.
+                                        It offers a suite of services specifically tailored for mobile apps, such as AWS Amplify, which simplifies backend development, authentication,
+                                        and real-time data synchronization.</p>
+                                    <a class="read-more" href="https://docs.aws.amazon.com/?nc2=h_ql_doc_do">Read More</a>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 news-item right">
+                                <div class="news-content">
                                     <h2 class="news-title">Firebase Authentication</h2>
                                     <div class="news-media gallery">
                                         <a class="colorbox cboxElement" href="#">
@@ -294,34 +161,44 @@ function TechnologyStack() {
                                         <a class="colorbox cboxElement" href="#"></a>
                                     </div>
                                     <p>
-                                        Firebase Authentication is a service provided by Google as part of the Firebase platform, designed to help developers easily integrate secure authentication into their applications. It supports a wide range of authentication methods, offering both simplicity and flexibility.</p>
-                                    {/* <a class="read-more" href="#">Read More</a> */}
+                                        Firebase Authentication is crucial in mobile applications utilizing cloud services due to its robust and streamlined user authentication process.
+                                        It simplifies the implementation of secure sign-in methods, including email/password, phone number, and social media logins, which are essential
+                                        for enhancing user experience and ensuring security.
+                                    </p>
+                                    <a class="read-more" href="https://firebase.google.com/docs/auth/">Read More</a>
                                 </div>
                             </div>
-                        </div>
-
-                        {/* <div class="date-title">
-                            <span>February 2014</span>
-                        </div> */}
-                        <div class="row">
-                            <div class="col-sm-6 news-item">
+                            <div class="date-title">
+                                <span>Publish Partner</span>
+                            </div>
+                            <div class="col-sm-6 news-item ">
                                 <div class="news-content">
-                                    {/* <div class="date">
-                                        <p>27</p>
-                                        <small>Thu</small>
-                                    </div> */}
-                                    <h2 class="news-title">Visual Studio Code</h2>
+                                    <h2 class="news-title">Playstore</h2>
                                     <div class="news-media gallery">
                                         <a class="colorbox cboxElement" href="#">
-                                            <img class="img-responsive" src={vscode} alt="vscode" style={{ width: '75px', height: '75px' }} />
+                                            <img class="img-responsive" src={playstore} alt="firebase" style={{ width: '75px', height: '75px' }} />
                                         </a>
+                                        <a class="colorbox cboxElement" href="#"></a>
                                     </div>
                                     <p>
-                                        Visual Studio Code (VS Code) is a lightweight, powerful code editor developed by Microsoft, widely used for various types of software development, including mobile application development. It provides a rich set of features that enhance productivity and streamline the development process for mobile apps.</p>
-                                    {/* <a class="read-more" href="#">Read More</a> */}
+                                        The Google Play Store is vital for mobile applications as it provides a vast distribution platform, reaching billions of Android users worldwide. It offers developers a straightforward way to publish, update, and manage their apps, ensuring they remain accessible and up-to-date.
+                                    </p>
                                 </div>
                             </div>
-
+                            <div class="col-sm-6 news-item right">
+                                <div class="news-content">
+                                    <h2 class="news-title">AppStore</h2>
+                                    <div class="news-media gallery">
+                                        <a class="colorbox cboxElement" href="#">
+                                            <img class="img-responsive" src={Appstore} alt="firebase" style={{ width: '75px', height: '75px' }} />
+                                        </a>
+                                        <a class="colorbox cboxElement" href="#"></a>
+                                    </div>
+                                    <p>
+                                        The Apple App Store is essential for mobile applications with cloud services, providing a secure and trusted platform for distribution and updates. It enhances app visibility and user trust, ensures stringent security and privacy standards, and supports seamless integration with iCloud, enabling robust and reliable cloud-based functionalities.
+                                    </p>
+                                </div>
+                            </div>
 
                         </div>
                     </div>
